@@ -10,10 +10,6 @@ namespace StockBalances
     {
         static void Main(string[] args)
         {
-            
-
-            
-
         }
     }
 }
